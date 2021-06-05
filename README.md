@@ -1,2 +1,3 @@
 # myFirstSite
-html and css practice
+Just for html and css practice.
+Learned many new things.
